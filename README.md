@@ -8,7 +8,9 @@ A demo of satellite communication and function with various devices <br/>
 https://github.com/PhotKosee/blackout/assets/114990364/6a29cc95-0264-43b3-89e4-52ab510c2066
 
 ## OOP
-This project mainly focuses on defining a relationship between entities and applying design patterns
+This project mainly focuses on defining a relationship between entities and applying design patterns.
 
 - Maintained good quality of code by implementing a pipeline for testing before refactoring the design
 - Applied strategy pattern for entities with similar behaviors
+
+![blackout_show](https://github.com/PhotKosee/blackout/assets/114990364/ac7f81ad-6acb-4a50-8794-6eca01be8abf)
