@@ -1,6 +1,6 @@
 # Back to Blackout
-> The source code is maintained on GitLab and could be published after 2025 due to UNSW policy. </br>
-Please reach out to me to review the code in person.
+> Note that the code here is not the complete version of the project. The complete code is maintained on GitLab and could be published after 2025 due to UNSW policy. <br/>
+Please contact me to review the complete version of the code in person.
 
 A demo of satellite communication and function with various devices <br/>
 [Checkout UML diagram of my implementation here](https://drive.google.com/file/d/1mV0JWhQIZe4L92LekX2HKLVFP1bh0QYj/view?usp=sharing)
